@@ -1,0 +1,2 @@
+script: bun install
+run: bun run dev

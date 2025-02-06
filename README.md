@@ -1,4 +1,4 @@
-To install dependencies:
+To install dependencies ayoooo:
 ```sh
 bun install
 ```
